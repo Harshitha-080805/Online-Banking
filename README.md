@@ -63,10 +63,3 @@ This system was built using **PHP**, **MySQL**, **HTML**, and **CSS** and deploy
 - PHP: 7.x or above
 - MySQL: 5.7 or above
 
----
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/online-banking-system.git
